@@ -1,0 +1,45 @@
+div {
+    padding: 10px;
+    margin: 0;
+    
+}
+section{
+    display: inline-block;
+    width: 22%;
+    padding: 0px;
+    margin: 1%;
+    border-radius: 20px;
+}
+section.b1{
+    color: rgb(24, 99, 99);
+}
+section.b2{
+    color: rgb(68, 10, 49);
+}
+section.b3{
+    color: rgb(68, 45, 10);
+}
+.b1{
+    background-color: rgb(177, 238, 238);
+    border: 0.5ch solid rgb(24, 99, 99);
+}
+.b2{
+    background-color: rgb(250, 141, 217);
+    border: 0.5ch solid rgb(68, 10, 49);
+}
+.b3{
+    background-color: rgb(252, 194, 140);
+    border: 0.5ch solid rgb(68, 45, 10);
+}
+img{
+    border-top-right-radius: 17px;
+    border-top-left-radius: 17px;
+    width: 294px;
+    height: 320px;
+}
+h1,h3{
+    text-align:center;
+}
+body{
+    background-color: rgb(37, 252, 109);
+}
